@@ -6,7 +6,7 @@
 
 # Questions
 
-*Q1* Given the following code;
+**Q1** Given the following code;
 
 ```
 var fruits = [‘Apple’,’Banana’,’Orange’,’Guava’]
@@ -14,9 +14,9 @@ var fruits = [‘Apple’,’Banana’,’Orange’,’Guava’]
 
 Write a code that will print  the contents of the array to console
 
-*Q2* Given the array fruits in Q1,  write a code that will print the contents of the array in the DOM
+**Q2** Given the array fruits in Q1,  write a code that will print the contents of the array in the DOM
 
-*Q3* Given the following array
+**Q3** Given the following array
 
 ```
 var mums = [1,2,3,5,6,8,9,10,12,14,15,17,18,19,20]
@@ -24,9 +24,9 @@ var mums = [1,2,3,5,6,8,9,10,12,14,15,17,18,19,20]
 
 Write a code that calculates the sum of all even numbers in the array
 
-*Q4* Given the array “nums” in Q3, write a code that computes the sum of the squares of all odd numbers
+**Q4** Given the array “nums” in Q3, write a code that computes the sum of the squares of all odd numbers
 
-*Q5* Given the array “nums”  in Q3, pick out all the even numbers and store them in a new array
+**Q5** Given the array “nums”  in Q3, pick out all the even numbers and store them in a new array
 
 
 
